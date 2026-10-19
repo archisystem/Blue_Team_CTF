@@ -3,6 +3,7 @@
 ## О лабораторной
 
 - **Платформа:** CyberDefenders
+- **Cсылка на лаборатория [CyberDefenders — Hammered lab](https://cyberdefenders.org/blueteam-ctf-challenges/hammered/)
 - **Лабораторная:** Hammered
 - **Направление:** Blue Team / SOC / Endpoint Forensics
 - **Цель:** исследовать журналы Linux-сервера, выявить признаки компрометации, восстановить действия злоумышленников и определить слабые места конфигурации.
