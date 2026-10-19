@@ -194,5 +194,4 @@ grep -inE 'warning|mysql' messages daemon.log debug auth.log
 
 ## Источник
 
-- [CyberDefenders — Hammered official walkthrough](https://cyberdefenders.org/walkthroughs/hammered/)
 - [CyberDefenders — Hammered lab](https://cyberdefenders.org/blueteam-ctf-challenges/hammered/)

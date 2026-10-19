@@ -210,4 +210,6 @@ Conted.vbs
 - Основы анализа PE timestamp.
 - Первичный анализ обфусцированного скрипта и распознавание LOLBin.
 
+Источник:
 
+- [CyberDefenders — Hammered lab](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)
