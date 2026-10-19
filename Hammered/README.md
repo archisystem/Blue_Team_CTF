@@ -3,7 +3,7 @@
 ## О лабораторной
 
 - **Платформа:** CyberDefenders
-- **Cсылка на лаборатория [CyberDefenders — Hammered lab](https://cyberdefenders.org/blueteam-ctf-challenges/hammered/)
+- **Cсылка на лабораторию:** [CyberDefenders — Hammered lab](https://cyberdefenders.org/blueteam-ctf-challenges/hammered/)
 - **Лабораторная:** Hammered
 - **Направление:** Blue Team / SOC / Endpoint Forensics
 - **Цель:** исследовать журналы Linux-сервера, выявить признаки компрометации, восстановить действия злоумышленников и определить слабые места конфигурации.
@@ -80,8 +80,6 @@ grep -F 'Accepted password for root' auth.log   | grep -oE '\b([0-9]{1,3}\.){3}[
 head -n 20 dmesg
 grep -iE 'Linux version|Ubuntu' messages dmesg kern.log
 ```
-
-В записях лабораторной упоминается строка сборки Ubuntu с версией GCC `4.2.4-1ubuntu3`. При ответе на вопрос платформы нужно ориентироваться на формулировку вопроса и точное значение из журнала.
 
 ## 5. Анализ активности Apache
 
