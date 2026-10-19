@@ -1,0 +1,8 @@
+# Hammered: исходные материалы лаборатории
+Hammered/*
+!Hammered/README.md
+
+# XLMRat: исходные файлы лаборатории
+XLMRat/*.pcap
+XLMRat/*.exe
+
